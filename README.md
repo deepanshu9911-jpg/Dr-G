@@ -4,7 +4,7 @@
 
 Dr. G — AI Symptom Triage Assistant
 
-Created by: Sanket Kumar Kar
+Created by: Deepanshu Srivastava
 
 A small single-page TypeScript React app (Vite) that helps triage patient symptoms using an LLM-backed service. This README documents the project purpose, architecture, setup, development workflow, data files, and next steps.
 
